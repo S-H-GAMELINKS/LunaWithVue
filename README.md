@@ -47,4 +47,4 @@ cd .. && ./bin/awesomesauce
 `localhost:8080`で実際のページにアクセスできる。
 
 ## ライセンス
-[MIT](./LISENCE)　ライセンスです。
+[MIT](./LICENSE)　ライセンスです。
